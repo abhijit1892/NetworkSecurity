@@ -1,0 +1,6 @@
+[ 2025-04-26 19:44:35,682 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2025-04-26 19:44:38,788 ] 12 root - INFO - Initiate the data ingestion
+[ 2025-04-26 19:44:41,277 ] 64 root - INFO - Performed train test split on the dataframe
+[ 2025-04-26 19:44:41,277 ] 65 root - INFO - Exited split_data_as_train_test method as Data_Ingestion class
+[ 2025-04-26 19:44:41,277 ] 71 root - INFO - Exporting train and test file path
+[ 2025-04-26 19:44:41,377 ] 78 root - INFO - Exported train and test file path
