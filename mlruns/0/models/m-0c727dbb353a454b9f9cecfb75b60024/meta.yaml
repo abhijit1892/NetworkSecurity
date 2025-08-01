@@ -1,0 +1,10 @@
+artifact_location: file:///home/abhijit/NetworkSecurity/mlruns/0/models/m-0c727dbb353a454b9f9cecfb75b60024/artifacts
+creation_timestamp: 1754035098935
+experiment_id: '0'
+last_updated_timestamp: 1754035100802
+model_id: m-0c727dbb353a454b9f9cecfb75b60024
+model_type: null
+name: model
+source_run_id: be540f94a48e4669b66bd357d260a5cc
+status: 2
+status_message: null
